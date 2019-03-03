@@ -3009,7 +3009,7 @@ input, select, textarea {
 				background-attachment: scroll,							scroll,							scroll;
 				background-image: url("Homeimages/top-1600.svg"), url("Homeimages/overlay.png"), url("../../images/homeimages/header.jpg");
 				background-size: 1600px 230px,					auto,							cover;
-				padding: 6em 0 12em 0;
+				padding: 6em 0 19em 0;
 			}
 
 				#header:before {
