@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bdcc0a0-8255-440b-92c6-a873353f72cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fitness.html" beforeDir="false" afterPath="$PROJECT_DIR$/fitness.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fitnessimages/fitness1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,48 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+            <state relative-caret-position="504">
+              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fitness.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="240" column="59" selection-start-line="240" selection-start-column="59" selection-end-line="240" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/fitnessimages/story1.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/fitnessimages/story2.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/Homehome.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5103">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="597">
+              <caret line="337" column="56" selection-start-line="337" selection-start-column="56" selection-end-line="337" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -99,8 +69,8 @@
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/assets/css/Homehome.css" />
         <option value="$PROJECT_DIR$/assets/sass/main.scss" />
-        <option value="$PROJECT_DIR$/fitness.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/fitness.html" />
       </list>
     </option>
   </component>
@@ -133,6 +103,12 @@
               <item name="HackaThon" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackaThon" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackaThon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackaThon" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="fitnessimages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackaThon" type="b2602c69:ProjectViewProjectNode" />
@@ -188,21 +164,22 @@
       <updated>1551513858712</updated>
       <workItem from="1551513861862" duration="29119000" />
       <workItem from="1551593526287" duration="219000" />
-      <workItem from="1551593771345" duration="11468000" />
+      <workItem from="1551593771345" duration="14007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40806000" />
+    <option name="totallyTimeSpent" value="43345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1427816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1427816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.32998413" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.68535167" visible="true" weight="0.5424275" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.31464833" side_tool="true" visible="true" weight="0.5424275" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.68535167" visible="true" weight="0.09022556" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.31464833" side_tool="true" visible="true" weight="0.09022556" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -338,27 +315,27 @@
     <entry file="file://$PROJECT_DIR$/images/fitnessimages/fitness1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/fitness.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="2631" column="13" lean-forward="true" selection-start-line="2631" selection-start-column="13" selection-end-line="2631" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/fitnessimages/story2.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fitness.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/fitness.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="240" column="59" selection-start-line="240" selection-start-column="59" selection-end-line="240" selection-end-column="59" />
+        <state relative-caret-position="304">
+          <caret line="3560" column="37" lean-forward="true" selection-start-line="3560" selection-start-column="37" selection-end-line="3560" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
+        <state relative-caret-position="504">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fitness.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="337" column="56" selection-start-line="337" selection-start-column="56" selection-end-line="337" selection-end-column="56" />
         </state>
       </provider>
     </entry>
