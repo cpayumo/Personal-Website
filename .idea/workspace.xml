@@ -2,116 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bdcc0a0-8255-440b-92c6-a873353f72cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/fitnessimages/fitness1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/adventure.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/adventure.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/fitness.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/fitness.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/fulls/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/fulls/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/gallery/thumbs/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/gallery/thumbs/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/hack.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/hack.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/linkedin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/linkedin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/pic02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/pic03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/spotlight01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/spotlight01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/spotlight02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/spotlight02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeImages/spotlight03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/homeimages/spotlight03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homefont-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homefont-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homehome.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homehome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/bottom-1280.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/bottom-1280.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/bottom-1600.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/bottom-1600.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/bottom-3200.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/bottom-3200.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/overlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/top-1280.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/top-1280.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/top-1600.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/top-1600.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/top-3200.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/top-3200.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homeimages/xoverlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homeimages/xoverlay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homecss/Homemain.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Homemain.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homefonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homejs/breakpoints.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homejs/browser.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homejs/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homejs/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homejs/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_html-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/libs/_vendor.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeassets/Homesass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_intro.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_navPanel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_fixed-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fitness.html" beforeDir="false" afterPath="$PROJECT_DIR$/fitness.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -127,29 +21,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/homepage.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1707">
-              <caret line="320" column="39" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
+            <state relative-caret-position="363">
+              <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fitness.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="88" lean-forward="true" selection-start-line="4" selection-start-column="88" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="273">
+              <caret line="61" column="59" lean-forward="true" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/fitnessimages/pic01.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2313">
-              <caret line="390" column="82" selection-start-line="390" selection-start-column="82" selection-end-line="390" selection-end-column="82" />
+            <state relative-caret-position="168">
+              <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -207,17 +106,19 @@
         <option value="$PROJECT_DIR$/Homeassets/sass/main.scss" />
         <option value="$PROJECT_DIR$/Homeassets/Homecss/Homehome.css" />
         <option value="$PROJECT_DIR$/Homeassets/Homesass/main.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/homepage.html" />
         <option value="$PROJECT_DIR$/generic.html" />
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/fitness.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="244" />
+    <option name="y" value="-22" />
     <option name="width" value="960" />
-    <option name="height" value="1032" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -255,6 +156,12 @@
               <item name="HackaThon" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackaThon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackaThon" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="fitnessimages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -266,11 +173,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\WebstormProjects\HackaThon\images\fitnessimages" />
+      <recent name="C:\Users\Chris\WebstormProjects\HackaThon\images" />
       <recent name="C:\Users\Chris\WebstormProjects\HackaThon\assets\css" />
       <recent name="C:\Users\Chris\WebstormProjects\HackaThon\assets\js" />
       <recent name="C:\Users\Chris\WebstormProjects\HackaThon" />
-      <recent name="C:\Users\Chris\WebstormProjects\HackaThon\images\fitnessimages" />
-      <recent name="C:\Users\Chris\WebstormProjects\HackaThon\images\homeimages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chris\WebstormProjects\HackaThon\assets\css" />
@@ -299,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551513858712</updated>
-      <workItem from="1551513861862" duration="23113000" />
+      <workItem from="1551513861862" duration="25288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23113000" />
+    <option name="totallyTimeSpent" value="25288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -313,7 +220,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18297197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.32998413" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.30464327" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.04303511" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -442,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homepage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1707">
-          <caret line="320" column="39" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -458,15 +358,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2313">
-          <caret line="390" column="82" selection-start-line="390" selection-start-column="82" selection-end-line="390" selection-end-column="82" />
+        <state relative-caret-position="168">
+          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/fitnessimages/pic01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/fitness.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="88" lean-forward="true" selection-start-line="4" selection-start-column="88" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="273">
+          <caret line="61" column="59" lean-forward="true" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="58" column="28" lean-forward="true" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
         </state>
       </provider>
     </entry>
