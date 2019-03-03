@@ -4,7 +4,6 @@
     <list default="true" id="7bdcc0a0-8255-440b-92c6-a873353f72cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Homehome.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fitness.html" beforeDir="false" afterPath="$PROJECT_DIR$/fitness.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/fitnessimages/fitness1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="57" column="66" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+            <state relative-caret-position="155">
+              <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -106,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
+    <option name="x" value="2584" />
+    <option name="y" value="-16" />
     <option name="width" value="960" />
     <option name="height" value="1004" />
   </component>
@@ -189,22 +188,21 @@
       <updated>1551513858712</updated>
       <workItem from="1551513861862" duration="29119000" />
       <workItem from="1551593526287" duration="219000" />
-      <workItem from="1551593771345" duration="11049000" />
+      <workItem from="1551593771345" duration="11468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40387000" />
+    <option name="totallyTimeSpent" value="40806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1427816" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1427816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" weight="0.32998413" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49867794" visible="true" weight="0.19763695" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50132203" side_tool="true" visible="true" weight="0.19763695" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.68535167" visible="true" weight="0.5424275" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.31464833" side_tool="true" visible="true" weight="0.5424275" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -359,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="57" column="66" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        <state relative-caret-position="155">
+          <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="66" />
         </state>
       </provider>
     </entry>
